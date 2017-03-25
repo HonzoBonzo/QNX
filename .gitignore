@@ -1,4 +1,36 @@
 .metadata/
-Klient/
-Server/
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+KlientQNX/
+ServerQNX/
+>>>>>>> 6a185a9... add
 maszyna/
+<<<<<<< HEAD
+<<<<<<< HEAD
+*/.settings/
+*/.cdtproject
+*/.project
+*/common.mk
+*/Makefile
+*/x86/
+=======
+>>>>>>> 48bdf6c... fix
+=======
+MyClient/
+MyServer/
+>>>>>>> 201c378... fix gitignore
+=======
+maszyna/
+*/.settings/
+*/.cdtproject
+*/.project
+<<<<<<< HEAD
+*/.common.mk
+*/.makefile
+>>>>>>> 44388d4... add
+=======
+*/common.mk
+*/Makefile
+*/x86/
+>>>>>>> 745dd26... fix
